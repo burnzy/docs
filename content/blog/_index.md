@@ -2,7 +2,7 @@
 title: Blog
 menu:
     header:
-        weight: 4
+        weight: 5
 
 # The build fails if these aren't included, but they do seem unnecessary here.
 # We should probably figure out how to remove the need for them.
